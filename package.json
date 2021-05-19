@@ -1,0 +1,22 @@
+{
+  "name": "lodown-l1llyp",
+  "version": "1.0.3",
+  "description": "An npm functional programming library project",
+  "main": "index.js",
+  "directories": {
+    "test": "istanbul cover _mocha -- test/ -R spec"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l1llyp/lodown.git"
+  },
+  "author": "Amelia Neville",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l1llyp/lodown/issues"
+  },
+  "homepage": "https://github.com/l1llyp/lodown#readme"
+}
